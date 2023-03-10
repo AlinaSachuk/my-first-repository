@@ -1,4 +1,4 @@
-package com.example.beauty_project;
+package com.beauty_project;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
