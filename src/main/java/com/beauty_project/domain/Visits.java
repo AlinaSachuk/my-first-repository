@@ -5,7 +5,8 @@ import org.springframework.stereotype.Component;
 
 import java.sql.Date;
 
-@Data@Component
+@Data
+@Component
 public class Visits {
     private Date dateOfVisit;
     private int finalPrice;
